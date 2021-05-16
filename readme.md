@@ -65,6 +65,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [React Native (Russian)](https://t.me/reactnative_ru) - Общаемся на тему React Native.
 - [React.js (Russian)](https://t.me/react_js) - Обсуждаем React.js и экосистему.
 - [Родионов и Разработка (Russian)](https://t.me/rodionovrodionovrodionov1) - Делаем разработку понятной.
+- [JavaScript Full Stack Community ](https://t.me/javascriptx) - Channel to discuss all things JS (TypeScript, NodeJs, ReactJs, GraphQL, NextJs, ReactNative, BackEnd & FrontEnd) .
 
 ## Personal
 
